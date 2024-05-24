@@ -1,5 +1,3 @@
-# pratankvardhan.github.io
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -19,7 +17,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(./images/bg.png);
+    background-image: url(bg.png);
     background-size: cover;
     background-position: center;
 }
@@ -110,7 +108,7 @@ nav ul li a:hover::after{
     <div id="header">
        <div class="container">
         <nav>
-            <img src="./images/logo5.png" alt="logo" class="logo">
+            <img src="logo5.png" alt="logo" class="logo">
             <ul>
                 <li><a href="">Home</a></li>
                 <li><a href="">About</a></li>
@@ -130,7 +128,7 @@ nav ul li a:hover::after{
         <div class="container">
             <div class="row">
                 <div class="about-col-1">
-                    <img src="./images/user.png" alt="user">
+                    <img src="user.png" alt="user">
                 </div>
                 <div class="about_col-2">
                     <h1>
